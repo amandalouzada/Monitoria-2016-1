@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1474289458 source:/home/amanda/Documentos/EDI-Monitoria/deslocameto/main.c
+	<stdio.h>
+	<stdlib.h>
+
